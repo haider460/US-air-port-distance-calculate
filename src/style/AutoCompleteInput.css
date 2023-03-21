@@ -1,0 +1,16 @@
+.AutoCompleteInput {
+  padding: 6px;
+  width: 40%;
+  margin-bottom: 10px;
+}
+
+.css-1qqsdnr-MuiAutocomplete-root
+  .MuiOutlinedInput-root
+  .MuiAutocomplete-input {
+  padding: 5px 2px 2px 0px !important;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root {
+  height: 45px !important;
+  margin-top: -11px !important;
+}
